@@ -11,7 +11,7 @@ the most digits of PI that you can. This can be 10 minutes of your time or you c
 To get started send your deloitte email address to Cole Tindall via teams or email("ctindall@deloitte.com"). Then a link will be shared
 to a compute/code environment on deepnote that is similar to working with Jupyter Notetbooks.
 Within this environment is a preconfigured notebook that has many options for different algorithms commonly used to compute PI. 
-With these algorithms feel free to brainstorm new methods or even try to increase there efficiency or accuracy. 
+With these algorithms feel free to brainstorm new methods or even try to increase the efficiency or accuracy. 
 
 We have 3 Team Leads Hanging around the room or on zoom that we can put you on a team with. Feel free to work independently if desired. 
 
